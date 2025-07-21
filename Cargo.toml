@@ -2,5 +2,13 @@
 name = "mylibrary"
 version = "0.1.0"
 edition = "2024"
+description="Simplke lib for learning proposal"
+authors =["Luiz Moraes <luizmoraesim@gmail.com>"]
+repository ="https://github.com/alakorede/mylibrary.git"
+readme = "README.md"
+license = "MIT"
+keywords = [
+    "learn"
+]
 
 [dependencies]
